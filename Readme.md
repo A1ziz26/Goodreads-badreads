@@ -1,5 +1,7 @@
   Good Reads or Bad Reads
+  <br/>
 <a href="https://www.kaggle.com/code/bakeryazizahmed/mlproject">Kaggle<a/>
+<br/>
 Aim: To predict the rating of the books based on the reviews provided in the dataset.
 Models: Logistic Regression, Kernel SVM, Bert neural Network(bert_base_uncased). 
 
