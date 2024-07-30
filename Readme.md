@@ -7,7 +7,7 @@
 
 <h2>Metrics</h2> f1-score.
 <br/>
-<h2>Result</h2>
+<h2>Result:</h2>
 Public Data:
 F1 Score (Weighted): <h3>0.630928407501394</h3>
 
