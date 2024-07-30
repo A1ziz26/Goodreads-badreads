@@ -1,9 +1,9 @@
-  Good Reads or Bad Reads
+  <h1>Good Reads or Bad Reads</h1>
   <br/>
-Source Code: <a href="https://www.kaggle.com/code/bakeryazizahmed/mlproject">Kaggle<a/>
+<h2>Source Code:</h2> <a href="https://www.kaggle.com/code/bakeryazizahmed/mlproject">Kaggle<a/>
 <br/>
-Aim: To predict the rating of the books based on the reviews provided in the dataset.
-Models: Logistic Regression, Kernel SVM, Bert neural Network(bert_base_uncased). 
+<h2>Aim</h2>: To predict the rating of the books based on the reviews provided in the dataset.
+<h2>Models</h2>: Logistic Regression, Kernel SVM, Bert neural Network(bert_base_uncased). 
 
 Metrics: f1-score.
 
