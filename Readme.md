@@ -1,4 +1,4 @@
-  <h3>Good Reads or Bad Reads</h3>
+  <h1>Good Reads or Bad Reads</h1>
   <br/>
 <h2>Source Code:</h2> <a href="https://www.kaggle.com/code/bakeryazizahmed/mlproject">Kaggle<a/>
 <br/>
@@ -14,7 +14,7 @@ F1 Score (Weighted): 0.630928407501394
 Private Data:
 F1 Score (Weighted): 0.641158920409090
 
-Competetion result
+<h2>Competition Standing</h2>
 
 ![image](https://github.com/A1ziz26/Goodreads-badreads/assets/156051027/d872a9b4-3d7a-4a29-9727-becca01c0c7f)
 
