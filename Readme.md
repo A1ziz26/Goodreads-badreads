@@ -9,10 +9,10 @@
 <br/>
 <h2>Result</h2>
 Public Data:
-F1 Score (Weighted): 0.630928407501394
+F1 Score (Weighted): <h3>0.630928407501394</h3>
 
 Private Data:
-F1 Score (Weighted): 0.641158920409090
+F1 Score (Weighted): <h3>0.641158920409090</h3>
 <br/>
 <h2>Competition Standing</h2>
 
