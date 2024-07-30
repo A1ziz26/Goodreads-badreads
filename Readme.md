@@ -8,7 +8,11 @@ Models: Logistic Regression, Kernel SVM, Bert neural Network(bert_base_uncased).
 Metrics: f1-score.
 
 Result:
+Public Data:
 F1 Score (Weighted): 0.630928407501394
+
+Private Data:
+F1 Score (Weighted): 0.641158920409090
 
 Competetion result:
 
